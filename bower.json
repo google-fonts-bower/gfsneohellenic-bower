@@ -1,0 +1,17 @@
+{
+    "name": "gfsneohellenic-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Greek Font Society"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/gfsneohellenic-bower.git"
+    },
+    "description": "GFS Neohellenic font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
